@@ -1,4 +1,4 @@
-![logo]([https://github.com/PrastianHD/NodeInter/blob/main/NodeInter.png](https://github.com/PrastianHD/NodeInter/blob/main/%5BAsset%5D/NodeInter.png))
+![logo](https://raw.githubusercontent.com/PrastianHD/NodeInter/main/NodeInter.png)
 
 
 <h1 align="center">NodeInter</h1>
