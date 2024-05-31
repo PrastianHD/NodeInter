@@ -17,3 +17,5 @@ There are several advantages that Initia offers to developers and blockchain use
 Binance Labs has invested in Initia, a Layer 1 Network for 0-to-1 Rollups
 
 ![logo](https://github.com/PrastianHD/NodeInter/blob/mains/%5BAsset%5D/initia-binance.png)
+
+[Website](https://initia.xyz/) | [Twitter](https://twitter.com/initiaFDN) | [Discord](https://discord.com/invite/initia) | [Documents](https://docs.initia.xyz/)
