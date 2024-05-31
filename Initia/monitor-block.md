@@ -46,8 +46,17 @@ chmod +x logs.sh
 ```
 >Close screen `CTRL + A D`
 
-Untuk Cek Lagi
+>Untuk Cek Lagi
 ```
 screen -R logs
 ```
+---
+
+>Untuk Port Sesuaikan masing" ya : n_peers=$(curl -s localhost:26657/net_info | jq .result.n_peers)
+
+>Cara cek Port
+```
+RPC="http://$(wget -qO- eth0.me)$(grep -A 3 "\[rpc\]" $HOME/.initia/config/config.toml | egrep -o ":[0-9]+")" && echo $RPC
+```
+
 
